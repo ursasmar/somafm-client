@@ -1,0 +1,21 @@
+{
+    "name": "justin.mcmichael/somafm-client",
+    "type": "cli",
+    "require": {
+		"php": "^8.3",
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/console": "^7.1",
+        "symfony/process": "^7.1"
+    },
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/"
+		}
+	},
+    "authors": [
+        {
+            "name": "JB McMichael",
+            "email": "justin.mcmichael@vshred.com"
+        }
+    ]
+}

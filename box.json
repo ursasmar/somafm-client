@@ -1,0 +1,7 @@
+{
+	"directories": ["src", "vendor"],
+	"files": ["somafm-client.php"],
+	"main": "somafm-client.php",
+	"output": "somafm-client.phar",
+	"compression": "GZ"
+}
